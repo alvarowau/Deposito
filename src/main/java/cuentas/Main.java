@@ -16,7 +16,7 @@ public class Main {
         }
     }
 
-    
+
     private static void operativa_cuenta(CCuenta cuenta, double cantidad) throws Exception {
         cuenta.retirar(cantidad);
 
